@@ -1,3 +1,4 @@
+/* コメント追加したよ！ */
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
