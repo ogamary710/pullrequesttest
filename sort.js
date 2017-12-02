@@ -1,4 +1,4 @@
-/* コメント追加したよ！ */
+/* ソートする関数です */
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
